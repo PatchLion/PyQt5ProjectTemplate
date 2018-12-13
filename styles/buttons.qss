@@ -1,0 +1,84 @@
+/*标准蓝色按钮*/
+QPushButton[class="Blue"]{
+    border:1px solid #2F80A1;
+    border-radius:5px;
+    background-color:
+	qlineargradient(x1:0, y1:0, x2:0, y2:1,
+	stop:0 #60AECA,
+	stop:0.6 #348CB1,
+	stop:1 #57A7C5);
+    color:#FFF;
+}
+
+/*标准蓝色按钮Checked、Hover*/
+QPushButton[class="Blue"]:hover, QPushButton[class="Blue"]:checked{
+    border:1px solid #286B87;
+    border-radius:5px;
+    background-color:
+	qlineargradient(x1:0, y1:0, x2:0, y2:1,
+	stop:0 #479BBC,
+	stop:0.6 #348CB1,
+	stop:1 #4398B9);
+    color:#333;
+}
+
+
+/*标准灰色按钮*/
+QPushButton[class="Gray"]{
+    border:1px solid #A1A1A1;
+    border-radius:5px;
+    background-color:
+	qlineargradient(x1:0, y1:0, x2:0, y2:1,
+	stop:0 #EEEEEE,
+	stop:0.6 #D9D9D9,
+	stop:1 #F4F4F4);
+    color:#333;
+}
+
+
+/*标准灰色按钮Checked、Hover*/
+QPushButton[class="Gray"]:hover, QPushButton[class="Gray"]:checked{
+    border:1px solid #8F8F8F;
+    border-radius:5px;
+    background-color:
+	qlineargradient(x1:0, y1:0, x2:0, y2:1,
+	stop:0 #E3E3E3,
+	stop:0.6 #BCBCBC,
+	stop:1 #E1E1E1);
+    color:#333;
+}
+
+/*标准红色按钮*/
+QPushButton[class="Red"]{
+    border:1px solid #F48F7C;
+    border-radius:5px;
+    background-color:
+	qlineargradient(x1:0, y1:0, x2:0, y2:1,
+	stop:0 #F48F7C,
+	stop:1 #D96C5E);
+    color:#333;
+}
+
+/*标准红色按钮Checked、Hover*/
+QPushButton[class="Red"]:hover, QPushButton[class="Red"]:checked{
+    border:1px solid #9C302D;
+    border-radius:5px;
+    background-color:
+	qlineargradient(x1:0, y1:0, x2:0, y2:1,
+	stop:0 #D96C5E,
+	stop:0.6 #DF7364,
+	stop:1 #D96C5E);
+    color:#333;
+}
+
+/*标准按钮Disabled*/
+QPushButton[class="Red"]:disabled, QPushButton[class="Blue"]:disabled, QPushButton[class="Gray"]:disabled{
+    border:1px solid #C3C3C3;
+    border-radius:5px;
+    background-color:
+	qlineargradient(x1:0, y1:0, x2:0, y2:1,
+	stop:0 #D2D2D2,
+	stop:0.6 #D6D6D6,
+	stop:1 #CBCBCB);
+    color:#FFF;
+}

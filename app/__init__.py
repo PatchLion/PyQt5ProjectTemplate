@@ -1,0 +1,1 @@
+from .MyWidget import MyWidget

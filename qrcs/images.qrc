@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/blue_active.png</file>
+        <file>image/blue_default.png</file>
+        <file>image/botten_background.png</file>
+        <file>image/btn_back.png</file>
+        <file>image/btn_disabled.png</file>
+        <file>image/btn_lastpage.png</file>
+        <file>image/btn_nextpage.png</file>
+        <file>image/btn_query.png</file>
+        <file>image/btn_reset.png</file>
+        <file>image/btn_search.png</file>
+        <file>image/checkbox.png</file>
+        <file>image/checkbox_checked.png</file>
+        <file>image/checkBoxChecked.png</file>
+        <file>image/checkBoxCheckedHover.png</file>
+        <file>image/checkBoxCheckedPressed.png</file>
+        <file>image/checkBoxHover.png</file>
+        <file>image/checkBoxIndeterminate.png</file>
+        <file>image/checkBoxIndeterminateHover.png</file>
+        <file>image/checkBoxIndeterminatePressed.png</file>
+        <file>image/checkBoxPressed.png</file>
+        <file>image/green_n.png</file>
+        <file>image/icon_down.png</file>
+        <file>image/icon_lastpage.png</file>
+        <file>image/icon_nextpage.png</file>
+        <file>image/icon_search.png</file>
+        <file>image/icon_time.png</file>
+        <file>image/logFileBtn.png</file>
+        <file>image/logSearch.png</file>
+        <file>image/menu_background.png</file>
+        <file>image/red_active.png</file>
+        <file>image/red_default.png</file>
+        <file>image/red_n.png</file>
+        <file>image/searchBackground.png</file>
+        <file>image/shade.png</file>
+        <file>image/Slider fill.png</file>
+        <file>image/Slider handle.png</file>
+        <file>image/startRecordBtnActive.png</file>
+        <file>image/startRecordBtnDefault.png</file>
+        <file>image/startRecordIcon.png</file>
+        <file>image/statusBarbackground.png</file>
+        <file>image/stopRecordBtnActive.png</file>
+        <file>image/stopRecordBtnDefault.png</file>
+        <file>image/stopRecordIcon.png</file>
+        <file>image/yellow_n.png</file>
+    </qresource>
+</RCC>
